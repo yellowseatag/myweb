@@ -243,7 +243,7 @@
         }
     };
     let clo=clock();
-    console.log(clo.next(),clo.next(),clo.next(),clo.next())
+    //console.log(clo.next(),clo.next(),clo.next(),clo.next())
 
 
 
