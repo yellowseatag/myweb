@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T08:23:33.820Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="F4SoNA0XvbNd7Cv9A-oc" version="14.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-03T08:24:20.301Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Vq8R_SH6fhIPnV-H64sK" version="14.7.4" type="github" pages="3">
   <diagram name="获取课程数据" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1422" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -335,6 +335,14 @@
         <mxCell id="F-IonjnJc89xRkEPhHjT-112" value="vip会有数据，预先解锁课程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="tm9Z8kTpEKWnv4tTzVET-1">
           <mxGeometry x="270" y="570" width="160" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SpeoMC3sECLNDzbw9C0H" name="会员注册登录">
+    <mxGraphModel dx="1422" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="6D-nOkB0vZ5LVJd6AIsW-0" />
+        <mxCell id="6D-nOkB0vZ5LVJd6AIsW-1" parent="6D-nOkB0vZ5LVJd6AIsW-0" />
       </root>
     </mxGraphModel>
   </diagram>
